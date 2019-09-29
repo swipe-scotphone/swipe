@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'SWIPE',
     description:
-      'Eenvironmentally friendly, premium quality, super concentrated cleaning products - direct to your home.',
+      'Environmentally friendly, premium quality, super concentrated cleaning products - direct to your home.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
