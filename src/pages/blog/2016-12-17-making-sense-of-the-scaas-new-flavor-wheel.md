@@ -1,10 +1,12 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: SWIPE
+date: 2019-09-29T08:00:00.000Z
+description: >-
+  Environmentally friendly, premium quality, super concentrated cleaning
+  products direct to your home.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/d11784438.jpg
 tags:
   - flavor
   - tasting
