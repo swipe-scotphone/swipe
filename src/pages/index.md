@@ -2,20 +2,15 @@
 templateKey: index-page
 title: SWIPE
 image: /img/d11784438.jpg
-heading: Environmentally friendly.
-subheading: >-
-  environmentally friendly, premium quality, super concentrated cleaning
-  products direct to your home
+heading: ' '
+subheading: The Super Concentrate Multi-Purpose Cleaner.
 mainpitch:
-  title: Why SWIPE
-  description: >
-    SWIPE is environmentally friendly, premium quality, super concentrated
-    cleaning products direct to your home.
+  title: SWIPE
+  description: |
+    The Super Concentrate Multi-Purpose Cleaner.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  SWIPE is environmentally friendly, premium quality, super concentrated
+  cleaning products direct to your home.
 intro:
   blurbs:
     - image: /img/coffee.png
