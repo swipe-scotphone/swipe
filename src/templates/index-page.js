@@ -19,7 +19,7 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
+      className="full-width-image is-full-width margin-top-0"
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
         <img
           src={logo}
           alt="Swipe"
-          style={{ width: '14em', height: '12em' }}
+          style={{ width: '18em', height: '14em' }}
         />
       </div>
       {/* <div
