@@ -73,6 +73,7 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link>
             </div>
+          </div>
         </div>
       </nav>
     )
