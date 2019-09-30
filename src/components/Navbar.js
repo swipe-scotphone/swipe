@@ -62,18 +62,18 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/products">
+              {/* <Link className="navbar-item" to="/products">
                 Products
-              </Link>
+              </Link> */}
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
+              {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
-              </Link>
+              </Link> */}
             </div>
           </div>
-          <div className="navbar-item"><a href="tel:0131 555 5555">0131 555 5555</a></div>
+          <div className="navbar-item"><a href="mailto:swipe@scotphone.co.uk">swipe@scotphone.co.uk</a>&nbsp;&nbsp;&nbsp;<a href="tel:01506 425 400">01506 425 400</a></div>
         </div>
       </nav>
     )

@@ -29,7 +29,7 @@ export const IndexPageTemplate = ({
       }}
     >
       <div className="content has-text-centered">
-        <img className="whiteEdges"
+        <img
           src={logo}
           alt="Swipe"
           style={{ width: '14em', height: '12em' }}
