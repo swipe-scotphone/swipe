@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
 title: SWIPE
-image: /img/homcare_bioswipe_products.jpg
+image: /img/bioswipe-sarja.jpg
 heading: ' '
-subheading: The Super Concentrate Multi-Purpose Cleaner.
+subheading: The Super Concentrate Multi-Purpose Cleaner
 mainpitch:
   title: SWIPE
   description: |
-    The Super Concentrate Multi-Purpose Cleaner.
+    The Super Concentrate Multi-Purpose Cleaner
 description: >-
   SWIPE is environmentally friendly, premium quality, super concentrated
-  cleaning products and available direct to your home.
+  cleaning products - available direct to your home.
 intro:
   blurbs:
     - image: /img/d11784438.jpg
@@ -31,7 +31,16 @@ intro:
         Swipe is flexible – Dilute concentrated Swipe® four different ways to
         create a whole arsenal of cleansers for your home and garage. 
   heading: super-concentrated
-  description: "\t\t\n\n\nSwipe is safe – Even at the strongest concentration recommended for home use (heavy solution diluted 5 to 1 for cleaning greasy grills and automobile engines), Swipe® formula is made up of biodegradable detergents and non-toxic, non-corrosive ingredients that are safe for the environment.  Contains no phosphorous.\n\nSwipe® is flexible – Dilute concentrated Swipe® four different ways to create a whole arsenal of cleansers for your home and garage. "
+  description: >-
+    Swipe is safe – Even at the strongest concentration recommended for home use
+    (heavy solution diluted 5 to 1 for cleaning greasy grills and automobile
+    engines), Swipe® formula is made up of biodegradable detergents and
+    non-toxic, non-corrosive ingredients that are safe for the environment. 
+    Contains no phosphorous.
+
+
+    Swipe® is flexible – Dilute concentrated Swipe® four different ways to
+    create a whole arsenal of cleansers for your home and garage. 
 main:
   heading: Great coffee with no compromises
   description: >
