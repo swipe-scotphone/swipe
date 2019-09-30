@@ -15,3 +15,13 @@ THE POSSIBILITIES ARE ENDLESS! Dilute concentrated SWIPE four different ways to 
 ## The possibilities are endless.
 
 Dilute concentrated SWIPE four different ways to create a whole arsenal of cleansers for your home and garage.
+
+## History
+
+In the 1960’s Chemical Associates Inc supplied industrial cleaning products to American industry. One of these products, named “20651”, was a concentrated general purpose cleaner that required mixing with water in three different strengths. The industrial customers soon discovered their employees were taking “20951” concentrate home (‘swiping’ it) in empty flasks and drink bottles.
+
+**“This miracle cleaner is better than anything we can buy”**
+
+Chemical Associates decided to package the concentrate into quart bottles, call it Swipe and promote it via the direct selling method using ‘word of mouth’ advertising. 
+
+Today, Swipe and its extensive product range (many of which are ex-industrial) has grown into a huge industry with a presence across the globe. Many customers have been using the product for over 40 years and whole generations have grown up using Swipe products.
