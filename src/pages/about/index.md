@@ -10,8 +10,6 @@ No other all-purpose cleaner has the concentrated power of Swipe, plus the prove
 
 Swipe is a biodegradable, non-toxic, non-corrosive industrial strength all-purpose cleaner that can tackle the toughest cleaning jobs. Just dilute concentrated Swipe to create a whole arsenal of cleaners for your home, garage or business. 
 
-THE POSSIBILITIES ARE ENDLESS! Dilute concentrated SWIPE four different ways to create a whole arsenal of cleansers for your home and garage.
-
 ## The possibilities are endless.
 
 Dilute concentrated SWIPE four different ways to create a whole arsenal of cleansers for your home and garage.
@@ -25,7 +23,5 @@ In the 1960’s Chemical Associates Inc supplied industrial cleaning products to
 Chemical Associates decided to package the concentrate into quart bottles, call it Swipe and promote it via the direct selling method using ‘word of mouth’ advertising. 
 
 Today, Swipe and its extensive product range (many of which are ex-industrial) has grown into a huge industry with a presence across the globe. Many customers have been using the product for over 40 years and whole generations have grown up using Swipe products.
-
-
 
 ## _Try Swipe cleaning products today and save time, money and the environment whilst using some of the best quality products on the market._
