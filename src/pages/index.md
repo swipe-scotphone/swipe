@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: SWIPE
-image: /img/d11784438.jpg
+image: /img/homcare_bioswipe_products.jpg
 heading: ' '
 subheading: The Super Concentrate Multi-Purpose Cleaner.
 mainpitch:
@@ -19,14 +19,14 @@ intro:
         it’s effective for many household cleaning jobs.  Introduced as an
         industrial cleaner in the 1950’s, Swipe® got its name when workers began
         swiping it for their own use.
-    - image: /img/d11784438.jpg
+    - image: /img/swipe_3.jpeg
       text: >
         Swipe is safe – Even at the strongest concentration recommended for home
         use (heavy solution diluted 5 to 1 for cleaning greasy grills and
         automobile engines), Swipe® formula is made up of biodegradable
         detergents and non-toxic, non-corrosive ingredients that are safe for
         the environment.  Contains no phosphorous.
-    - image: /img/d11784438.jpg
+    - image: /img/bioswipe-2019-960x960.jpg
       text: >-
         Swipe is flexible – Dilute concentrated Swipe® four different ways to
         create a whole arsenal of cleansers for your home and garage. 
