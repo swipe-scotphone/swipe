@@ -10,28 +10,28 @@ mainpitch:
     The Super Concentrate Multi-Purpose Cleaner.
 description: >-
   SWIPE is environmentally friendly, premium quality, super concentrated
-  cleaning products direct to your home.
+  cleaning products and available direct to your home.
 intro:
   blurbs:
     - image: /img/d11784438.jpg
       text: >
-        Swipe® is super-concentrated - even diluted 200 to 1 (light solution),
+        Swipe is super-concentrated - even diluted 200 to 1 (light solution),
         it’s effective for many household cleaning jobs.  Introduced as an
         industrial cleaner in the 1950’s, Swipe® got its name when workers began
         swiping it for their own use.
     - image: /img/d11784438.jpg
       text: >
-        Swipe® is safe – Even at the strongest concentration recommended for
-        home use (heavy solution diluted 5 to 1 for cleaning greasy grills and
+        Swipe is safe – Even at the strongest concentration recommended for home
+        use (heavy solution diluted 5 to 1 for cleaning greasy grills and
         automobile engines), Swipe® formula is made up of biodegradable
         detergents and non-toxic, non-corrosive ingredients that are safe for
         the environment.  Contains no phosphorous.
     - image: /img/d11784438.jpg
       text: >-
-        Swipe® is flexible – Dilute concentrated Swipe® four different ways to
+        Swipe is flexible – Dilute concentrated Swipe® four different ways to
         create a whole arsenal of cleansers for your home and garage. 
   heading: super-concentrated
-  description: "\t\t\n\n\nSwipe® is safe – Even at the strongest concentration recommended for home use (heavy solution diluted 5 to 1 for cleaning greasy grills and automobile engines), Swipe® formula is made up of biodegradable detergents and non-toxic, non-corrosive ingredients that are safe for the environment.  Contains no phosphorous.\n\nSwipe® is flexible – Dilute concentrated Swipe® four different ways to create a whole arsenal of cleansers for your home and garage. "
+  description: "\t\t\n\n\nSwipe is safe – Even at the strongest concentration recommended for home use (heavy solution diluted 5 to 1 for cleaning greasy grills and automobile engines), Swipe® formula is made up of biodegradable detergents and non-toxic, non-corrosive ingredients that are safe for the environment.  Contains no phosphorous.\n\nSwipe® is flexible – Dilute concentrated Swipe® four different ways to create a whole arsenal of cleansers for your home and garage. "
 main:
   heading: Great coffee with no compromises
   description: >
