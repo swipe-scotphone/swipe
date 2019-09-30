@@ -13,13 +13,13 @@ description: >-
   cleaning products direct to your home.
 intro:
   blurbs:
-    - image: /img/tutorials.png
+    - image: /img/d11784438.jpg
       text: >
         Swipe® is super-concentrated - even diluted 200 to 1 (light solution),
         it’s effective for many household cleaning jobs.  Introduced as an
         industrial cleaner in the 1950’s, Swipe® got its name when workers began
         swiping it for their own use.
-    - image: /img/meeting-space.png
+    - image: /img/d11784438.jpg
       text: >
         Swipe® is safe – Even at the strongest concentration recommended for
         home use (heavy solution diluted 5 to 1 for cleaning greasy grills and
