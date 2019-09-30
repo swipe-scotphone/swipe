@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
@@ -35,7 +34,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        className="navbar is-fixed-top is-transparent"
         role="navigation"
         aria-label="main-navigation"
       >
@@ -74,6 +73,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
           </div>
+          <div className="navbar-item"><a href="tel:0131 555 5555">0131 555 5555</a></div>
         </div>
       </nav>
     )

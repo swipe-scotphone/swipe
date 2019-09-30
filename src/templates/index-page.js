@@ -4,7 +4,9 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+// import BlogRoll from '../components/BlogRoll'
+import logo from '../img/logo.svg'
+
 
 export const IndexPageTemplate = ({
   image,
@@ -22,11 +24,18 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `center center`,
         backgroundAttachment: `fixed`,
       }}
     >
-      <div
+      <div className="content has-text-centered">
+        <img className="whiteEdges"
+          src={logo}
+          alt="Swipe"
+          style={{ width: '14em', height: '12em' }}
+        />
+      </div>
+      {/* <div
         style={{
           display: 'flex',
           height: '150px',
@@ -40,8 +49,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              '#0033a0 0.5rem 0px 0px, #0033aa -0.5rem 0px 0px',
+            backgroundColor: '#0033a0',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +62,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              '#0033a0 0.5rem 0px 0px, #0033a0 -0.5rem 0px 0px',
+            backgroundColor: '#0033a0',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -62,7 +71,7 @@ export const IndexPageTemplate = ({
         >
           {subheading}
         </h3>
-      </div>
+      </div> */}
     </div>
     <section className="section section--gradient">
       <div className="container">
@@ -87,14 +96,14 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
+                {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
                       See all products
                     </Link>
                   </div>
-                </div>
-                <div className="column is-12">
+                </div> */}
+                {/* <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
@@ -104,7 +113,7 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
