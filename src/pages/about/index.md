@@ -25,3 +25,7 @@ In the 1960’s Chemical Associates Inc supplied industrial cleaning products to
 Chemical Associates decided to package the concentrate into quart bottles, call it Swipe and promote it via the direct selling method using ‘word of mouth’ advertising. 
 
 Today, Swipe and its extensive product range (many of which are ex-industrial) has grown into a huge industry with a presence across the globe. Many customers have been using the product for over 40 years and whole generations have grown up using Swipe products.
+
+
+
+## _Try Swipe cleaning products today and save time, money and the environment whilst using some of the best quality products on the market._
